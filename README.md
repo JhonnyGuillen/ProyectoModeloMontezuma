@@ -1,2 +1,2 @@
 # ProyectoModeloMontezuma
-Modelo de casa Montezuma de la empreza Gohisa
+Modelo de casa Montezuma de la empreza Gohisa Arquitectos
